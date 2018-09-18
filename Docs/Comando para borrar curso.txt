@@ -1,0 +1,11 @@
+//// ESTE ES EL COMANDO PARA BORRAR UN CURSO ////
+
+1. Primero debes entrar a la terminal de PuTTy 
+2. Una vez dentro, ir a la ruta edx copiando el siguiente comando:
+
+	cd apps/edx/
+
+3. Una vez dentro de la ruta, copiar el siguiente codigo cambiando el ID del curso
+   que se encuentra dentro de las comillas simples.
+
+	sudo bin/python.edxapp ./manage.py cms --settings aws delete_course 'course-v1:KeD+CS104+2018-2'
