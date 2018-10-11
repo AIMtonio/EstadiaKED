@@ -37,4 +37,12 @@ https://algoentremanos.com/como-conseguir-un-certificado-ssl-gratis-para-tu-web/
 
 
 
- 
+
+https://dash.cloudflare.com/fb7576992ecfa3e16e50e1409514c1d5/ked.com.mx/verify-dns
+//ssl mas estable hasta el momento
+
+
+
+
+
+
