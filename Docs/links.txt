@@ -42,6 +42,7 @@ https://dash.cloudflare.com/fb7576992ecfa3e16e50e1409514c1d5/ked.com.mx/verify-d
 //ssl mas estable hasta el momento
 
 
+https://dash.cloudflare.com/fb7576992ecfa3e16e50e1409514c1d5/ked.com.mx/crypto
 
 
 
