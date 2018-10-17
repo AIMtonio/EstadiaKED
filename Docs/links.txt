@@ -16,7 +16,6 @@ http://www.inforsistemas.com/blog/que-es-openssl/
 https://www.youtube.com/watch?v=73c63lM1HG8
 //video openssl
 
-
 torrents
 https://rarbg.to/index42.php
 https://www.1337x.to/
@@ -24,26 +23,16 @@ https://torrentz2.eu/
 https://thepiratebay.org/
 https://katcr.co/new/full/
 
-pendientes
-https://www.ssl247.com.mx/certificado-ssl?gclid=EAIaIQobChMI44Wkhtv53QIV3rjACh2ysQ1vEAAYAiAAEgJVzvD_BwE
+https://zerossl.com/free-ssl/#crt
+//ssl gratuito por 90 dias (se necesita acceder al panel de control del sitio
+para crear unas carpetas en donde contenga 2 archivos de lectura)
 
-https://www.haztupaginaweb.com/certificado-ssl-gratis/
-https://www.elblogdelseo.com/cambio-https-certificado-ssl-gratuito-lets-encrypt/
-https://www.linuxito.com/seguridad/292-como-obtener-un-certificado-ssl-gratis
-https://www.webempresa.com/hosting/certificado-ssl-gratis-lets-encrypt.html
-https://ayudawp.com/lets-encrypt-certificado-ssl-libre-y-gratuito-para-asegurar-tu-web-con-https/
-https://reinspirit.com/certificados-ssl-gratuitos-wordpress/
-https://algoentremanos.com/como-conseguir-un-certificado-ssl-gratis-para-tu-web/
+https://www.cloudflare.com/es-es/
+//seguridad gratuita ssl (se necesita cambiar los namespaces para poder re direccionar 
+al sitio e implementar el certificado, tarda de 24 a 48 horas)
 
 
-
-
-https://dash.cloudflare.com/fb7576992ecfa3e16e50e1409514c1d5/ked.com.mx/verify-dns
-//ssl mas estable hasta el momento
-
-
-https://dash.cloudflare.com/fb7576992ecfa3e16e50e1409514c1d5/ked.com.mx/crypto
-
-
-
+para la implementacion se debe configurar el panel de control de azure 
+https://www.youtube.com/watch?v=JzhiVSmO4Uk
+//video tutorial de configuracion.
 
