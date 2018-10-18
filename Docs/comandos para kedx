@@ -1,0 +1,17 @@
+
+sudo /opt/bitnami/ctlscript.sh stop apache2 
+
+sudo /opt/bitnami/ctlscript.sh start apache2 
+
+con el primer comando se detienen los servicios de apache y la 
+pagina kedx.ked.com.mx deja de funcionar
+
+para habilitarla de nuevo tenemos que ejecutar el segundo comando para inciar el servicio web
+https://www.youtube.com/user/Mazthertutoriales/videos
+
+jioguerrprivacity@gmail.com
+
+
+
+https://www.youtube.com/watch?v=cCj7Q1cz8JU
+
