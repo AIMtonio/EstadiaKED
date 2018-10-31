@@ -17,11 +17,4 @@ https://www.youtube.com/watch?v=cCj7Q1cz8JU
 https://www.youtube.com/watch?v=s5bw4vH-vww
 
 
-https://docs.bitnami.com/azure/apps/edx/administration/check-ssl-certificate/
-https://docs.bitnami.com/azure/apps/edx/administration/create-ssl-certificate-apache/
-https://docs.bitnami.com/azure/apps/edx/administration/force-https-apache/
-https://docs.bitnami.com/azure/apps/edx/administration/generate-configure-certificate-letsencrypt/
-https://docs.bitnami.com/azure/apps/edx/administration/
-
-
 
