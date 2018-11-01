@@ -1,5 +1,5 @@
 
-sudo /opt/bitnami/ctlscript.sh restart apache2 
+sudo /opt/bitnami/ctlscript.sh restart apache
 
 sudo /opt/bitnami/ctlscript.sh start apache2 
 
@@ -35,7 +35,7 @@ certbot-auto -d kedx.ked.com.mx
 
 openssl req -ner -key server.key -out server.csr
 
-
+para la configuracion del fju
 ***********
 Comandos openssl 
 
@@ -64,4 +64,10 @@ sudo cp server.key /home/bitnami/stack/apache2/ssl
 https://www.youtube.com/watch?v=K7e_-y40ScU
 http://kedx.ked.com.mx/
 
+https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/#step-1-install-the-lego-client
+
+https://www.dondominio.com/products/ssl/green-bar/
+
+
+para la confgi
 
