@@ -69,5 +69,16 @@ https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/#step-1-in
 https://www.dondominio.com/products/ssl/green-bar/
 
 
-para la confgi
 
+
+/opt/bitnami/apache2/var/cache/mod_pagespeed/v2/52.173.190.172/http,3A/,2F52.173.190.172
+
+
+***
+ruta relativa
+/opt/bitnami/apache2/var/cache/mod_pagespeed/v2/ked.com.mx/http,3A/,2Fkedx.ked.com.mx/
+
+
+
+pagina del certificado ssl
+https://my.gogetssl.com/en/user/sslcerts/view/834762
