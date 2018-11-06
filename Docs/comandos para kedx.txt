@@ -11,7 +11,7 @@ para habilitarla de nuevo tenemos que ejecutar el segundo comando para inciar el
 
 
 jioguerrprivacity@gmail.com
-
+mmk91274@nbzmr.com
 
 https://www.youtube.com/watch?v=cCj7Q1cz8JU
 https://www.youtube.com/watch?v=s5bw4vH-vww
@@ -82,3 +82,14 @@ ruta relativa
 
 pagina del certificado ssl
 https://my.gogetssl.com/en/user/sslcerts/view/834762
+
+
+
+para realizar el certificado y el protocolo SSL por https que
+indica que es el puerto 443 para implementar seguridad total
+en el sitio es una forma de implementar dicho certificado para
+que los datos y la integridad del cliente se encuentren respaldados
+a tra ves de nuestro protocolo ssl 
+
+
+
