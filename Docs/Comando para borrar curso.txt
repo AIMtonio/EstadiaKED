@@ -9,3 +9,8 @@
    que se encuentra dentro de las comillas simples.
 
 	sudo bin/python.edxapp ./manage.py cms --settings aws delete_course 'course-v1:KeD+CS104+2018-2'
+
+para l
+
+
+
