@@ -90,11 +90,6 @@ https://my.gogetssl.com/en/user/sslcerts/view/834762
 
 
 
-para realizar el certificado y el protocolo SSL por https que
-indica que es el puerto 443 para implementar seguridad total
-en el sitio es una forma de implementar dicho certificado para
-que los datos y la integridad del cliente se encuentren respaldados
-a tra ves de nuestro protocolo ssl 
+sudo /opt/bitnami/ctlscript.sh restart apache
 
-
-
+sudo /opt/bitnami/ctlscript.sh stop apache
