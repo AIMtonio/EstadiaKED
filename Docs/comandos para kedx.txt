@@ -14,23 +14,32 @@ jioguerrprivacity@gmail.com
 mmk91274@nbzmr.com
 zgs66732@iencm.com
 edgarrodrigue_15a
-
+ggf29035@ebbob.com
 
 
 https://www.youtube.com/watch?v=cCj7Q1cz8JU
 https://www.youtube.com/watch?v=s5bw4vH-vww
 
 
-
+https://listado.mercadolibre.com.mx/_Desde_145_CustId_237061421_seller*id_237061421
 
 https://docs.bitnami.com/azure/apps/edx/administration/check-ssl-certificate/ 
-https://docs.bitnami.com/azure/apps/edx/administration/create-ssl-certificate-apache/ 
+https://docs.bitna                                                                                                                        mi.com/azure/apps/edx/administration/create-ssl-certificate-apache/ 
 https://docs.bitnami.com/azure/apps/edx/administration/force-https-apache/ 
 https://docs.bitnami.com/azure/apps/edx/administration/generate-configure-certificate-letsencrypt/ 
 https://docs.bitnami.com/azure/apps/edx/administration/ 
 
+links de documentacion de bitnami para el proceso de configuación
+del pedido para realizar la implementacion del certificado de seguridad
+
+Para poder acceder a la implementacion del certificado se necesita el redireccionamiento de los procologs correspondientes para dicho sistema +
+https://kedx.ked.com.mx
+
+
+el archivo tiene que estar visible para su lkectura 
+
 ******************************************************
-sudo apt-get install openssl
+sudo apt-get install openss
 
 sudo openssl genrsa -out /opt/bitnami/apache2/conf/server.key 2048
 
@@ -77,7 +86,6 @@ https://www.dondominio.com/products/ssl/green-bar/
 
 
 
-
 /opt/bitnami/apache2/var/cache/mod_pagespeed/v2/52.173.190.172/http,3A/,2F52.173.190.172
 
 
@@ -95,3 +103,5 @@ https://my.gogetssl.com/en/user/sslcerts/view/834762
 sudo /opt/bitnami/ctlscript.sh restart apache
 
 sudo /opt/bitnami/ctlscript.sh stop apache
+
+
