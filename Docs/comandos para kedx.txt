@@ -3,6 +3,8 @@ sudo /opt/bitnami/ctlscript.sh restart apache
 
 sudo /opt/bitnami/ctlscript.sh start apache2 
 
+
+
 con el primer comando se detienen los servicios de apache y la 
 pagina kedx.ked.com.mx deja de funcionar
 	
@@ -19,6 +21,8 @@ ggf29035@ebbob.com
 
 https://www.youtube.com/watch?v=cCj7Q1cz8JU
 https://www.youtube.com/watch?v=s5bw4vH-vww
+
+https://twitter.com/tialau_sad/status/1066044124065755137
 
 
 https://listado.mercadolibre.com.mx/_Desde_145_CustId_237061421_seller*id_237061421
